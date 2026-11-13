@@ -1,2 +1,2 @@
-build.sh linguist-detectable=false
-test.sh linguist-detectable=false
+build.sh linguist-generated=true
+test.sh linguist-generated=true
